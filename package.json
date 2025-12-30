@@ -1,0 +1,8 @@
+{
+  "name": "stream-video-token",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@stream-io/node-sdk": "^4.7.0"
+  }
+}
