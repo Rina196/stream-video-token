@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@stream-io/node-sdk": "latest"
+    "@stream-io/node-sdk": "latest",
+    "stream-chat": "^9.27.2"
   }
 }
